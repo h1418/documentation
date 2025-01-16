@@ -1,6 +1,7 @@
 name: Preview Synthetics
 on: 
   workflow_dispatch: # allows manual trigger
+  pull_request:
 
 # Stop the current running job if a new push is made to the PR
 concurrency:
