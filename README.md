@@ -8,7 +8,7 @@ Contributions are encouraged! If you notice something on one of the pages that n
 
 Most pages on the documentation site feature an **Edit** button that sends you to the source file in this repo. You can make an edit straight from the GitHub website!
 
-![The edit button on a docs page](static/images/edit_link.png)
+![The edit button on a docs page](static/images/edit_link.png)f
 
 For more information on contributing, see the [contribution guidelines][18].
 
